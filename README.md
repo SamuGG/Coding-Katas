@@ -2,3 +2,4 @@
 
 - [Bowling Game](BowlingGame)
 - [Diamond](Diamond)
+- [Birthday Greetings](BirthdayGreetings)
