@@ -1,5 +1,6 @@
 # Coding Exercises (or Katas)
 
-- [Bowling Game](BowlingGame)
-- [Diamond](Diamond)
-- [Birthday Greetings](BirthdayGreetings)
+- [Birthday Greetings](BirthdayGreetings/README.md)
+- [Bowling Game](BowlingGame/README.md)
+- [Calisthenics](calisthenics-codekata-09/README.md)
+- [Diamond](Diamond/README.md)
