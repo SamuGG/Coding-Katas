@@ -4,3 +4,4 @@
 - [Bowling Game](BowlingGame/README.md)
 - [Calisthenics](calisthenics-codekata-09/README.md)
 - [Diamond](Diamond/README.md)
+- [Guess Number](guess-number/Readme.md)
